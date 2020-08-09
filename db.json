@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Cahyana",
+          "alamat": "bogot",
+          "umur": "23",
+          "nohp": "1313131"
+        },
+        {
+          "id": 2,
+          "nama": "Grmbel",
+          "alamat": "jakarta",
+          "umur": "23",
+          "nohp": "12121212"
+        }
+      ]
+}
